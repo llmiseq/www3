@@ -1,0 +1,84 @@
+.konetner {
+    display: flex;
+    font-family: Helvetica, sans-serif;
+    background-color: linen;
+    color: #222;
+    margin: auto;
+    width: 90%;
+}
+
+.baner {
+    display: flex;
+    flex-direction: row;
+}
+
+.baner-dwa ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.baner-jeden,
+.baner-dwa {
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+
+.glowny{
+    padding: 20px;
+}
+.stopka{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+table{
+    margin: 40px;
+}
+a{
+    color: #aaa;
+    font-weight: normal;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+
+.baner-jeden, .baner-dwa{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+.glowny{
+    padding: 20px;
+}
+.stopka{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+ul{
+    margin: 40px;
+}
+tr{
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    color: #aaa;
+    font-weight: normal;
+}
+a:hover{
+    color: white;
+}
+li{
+    display: block;
+    padding: 5px;
+    margin: 10px;
+    border-bottom: solid 1px white;
+}
